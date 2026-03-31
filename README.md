@@ -389,3 +389,4 @@ IoT 개발자 파이썬 리포지토리
         - 문자를 숫자로 변환
         - 예) male, female 은 분석불가 -> 0, 1 (수, 분포,...) 수치적인 통계 가능
         - One-Hot Encoding, male[1, 0, 0], female[0, 1, 0], child[0, 0, 1]
+        -
